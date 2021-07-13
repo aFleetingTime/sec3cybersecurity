@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/HTB-Seal-Machine/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-Seal-Machine/</loc>
     
     <lastmod>2021-07-12</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/HTB-Intelligence-Machine/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-Intelligence-Machine/</loc>
     
     <lastmod>2021-07-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/HTB-CrossFitTwo-Machine/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-CrossFitTwo-Machine/</loc>
     
     <lastmod>2021-07-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/index.html</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/index.html</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/categories/index.html</loc>
+    <loc>https://sys3cybersecurity.netlify.app/categories/index.html</loc>
     
     <lastmod>2021-07-03</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,119 +46,119 @@
 
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/LDAP/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/LDAP/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/Kerberos/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Kerberos/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/ccache/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/ccache/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/AD/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/AD/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/SMB/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/SMB/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/gMSA/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/gMSA/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/websocket/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/websocket/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/DNS/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/DNS/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/yubikey/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/yubikey/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/relayd/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/relayd/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/unbound/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/unbound/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/sqli/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/sqli/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/playbook/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/playbook/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/GitBucket/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/GitBucket/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/Tomcat/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Tomcat/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/Nginx/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Nginx/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/tags/path-traversal/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/tags/path-traversal/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -167,7 +167,7 @@
 
   
   <url>
-    <loc>https://sys3cybersecurity.webhop.me/categories/HTB/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/categories/HTB/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
