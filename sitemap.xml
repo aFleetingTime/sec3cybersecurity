@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-BountyHunter-Machine/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-Seal-Machine/</loc>
     
     <lastmod>2021-08-11</lastmod>
     
@@ -11,28 +11,28 @@
   <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-Pikaboo-Machine/</loc>
     
-    <lastmod>2021-07-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-Seal-Machine/</loc>
-    
-    <lastmod>2021-07-12</lastmod>
+    <lastmod>2021-08-11</lastmod>
     
   </url>
   
   <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-Intelligence-Machine/</loc>
     
-    <lastmod>2021-07-10</lastmod>
+    <lastmod>2021-08-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-BountyHunter-Machine/</loc>
+    
+    <lastmod>2021-08-11</lastmod>
     
   </url>
   
   <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-CrossFitTwo-Machine/</loc>
     
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2021-08-11</lastmod>
     
   </url>
   
