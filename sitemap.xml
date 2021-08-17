@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-CrossFitTwo-Machine/</loc>
+    
+    <lastmod>2021-08-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-Writer-Machine/</loc>
     
     <lastmod>2021-08-17</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://sys3cybersecurity.netlify.app/HTB-BountyHunter-Machine/</loc>
     
     <lastmod>2021-08-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-CrossFitTwo-Machine/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
     
   </url>
   
