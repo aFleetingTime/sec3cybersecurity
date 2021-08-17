@@ -2,9 +2,6 @@ User-agent: *
 Allow: /
 Allow: /archives/
 
-Disallow: /js/
-Disallow: /css/
-Disallow: /lib/
 Disallow: /tags/
 
 Sitemap: https://sys3cybersecurity.netlify.app/sitemap.xml
