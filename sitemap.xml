@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-SteamCoin/</loc>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-Intelligence-Machine/</loc>
+    
+    <lastmod>2021-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-Seal-Machine/</loc>
+    
+    <lastmod>2021-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-BountyHunter-Machine/</loc>
     
     <lastmod>2021-12-06</lastmod>
     
@@ -10,6 +24,13 @@
   
   <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-Pikaboo-Machine/</loc>
+    
+    <lastmod>2021-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/HTB-SteamCoin/</loc>
     
     <lastmod>2021-12-06</lastmod>
     
@@ -58,28 +79,7 @@
   </url>
   
   <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-Seal-Machine/</loc>
-    
-    <lastmod>2021-12-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-Intelligence-Machine/</loc>
-    
-    <lastmod>2021-12-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://sys3cybersecurity.netlify.app/HTB-Bolt-Machine/</loc>
-    
-    <lastmod>2021-12-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sys3cybersecurity.netlify.app/HTB-BountyHunter-Machine/</loc>
     
     <lastmod>2021-12-06</lastmod>
     
@@ -107,6 +107,132 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/XXE/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/brute-force/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/vsftpd/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Apache/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Nginx/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/OpenLDAP/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/LFI/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/path-traversal/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/perl/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/playbook/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/GitBucket/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Tomcat/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/LDAP/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/Kerberos/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/ccache/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/AD/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/SMB/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sys3cybersecurity.netlify.app/tags/gMSA/</loc>
+    <lastmod>2021-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://sys3cybersecurity.netlify.app/tags/sqli/</loc>
